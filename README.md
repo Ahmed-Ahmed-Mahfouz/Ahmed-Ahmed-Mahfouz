@@ -15,6 +15,7 @@
  
 # 💫 About Me:
 🔭 I’m currently working on ITI Scholarship<br>🌱 I’m currently learning Angular, .NET Framework<br>💬 Ask me about HTML, CSS, JS<br>👨‍💻 All of my projects are available at github.com/Ahmed-Ahmed-Mahfouz<br>📫 How to reach me ahmedmahfouz098@gmail.com<br>⚡ Fun fact I think I am funny
+- 📄 Know about my experiences [https://drive.google.com/file/d/1B7BB3JH-wpD529GdHw6-XKOlHKSPAQYn/view?usp=sharing](https://drive.google.com/file/d/1B7BB3JH-wpD529GdHw6-XKOlHKSPAQYn/view?usp=sharing)
 
 
 ## 🌐 Socials:
