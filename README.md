@@ -14,7 +14,7 @@
 <h3 align="center">A passionate software developer from Egypt</h3>
  
 # 💫 About Me:
-🔭 I’m currently working on ITI Scholarship<br>🌱 I’m currently learning Angular, .NET Framework<br>💬 Ask me about HTML, CSS, JS<br>👨‍💻 All of my projects are available at github.com/MR-M1CR0<br>📫 How to reach me ahmedmahfouz098@gmail.com<br>⚡ Fun fact I think I am funny
+🔭 I’m currently working on ITI Scholarship<br>🌱 I’m currently learning Angular, .NET Framework<br>💬 Ask me about HTML, CSS, JS<br>👨‍💻 All of my projects are available at github.com/Ahmed-Ahmed-Mahfouz<br>📫 How to reach me ahmedmahfouz098@gmail.com<br>⚡ Fun fact I think I am funny
 
 
 ## 🌐 Socials:
