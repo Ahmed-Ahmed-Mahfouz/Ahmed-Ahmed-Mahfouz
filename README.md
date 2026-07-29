@@ -22,16 +22,6 @@
 - Strengthening my knowledge of Data Structures, Algorithms, and problem-solving.
 - Learning scalable application architecture, clean code principles, and software design patterns.
 
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ahmed-Ahmed-Mahfouz&theme=cobalt&hide_border=true&cache_seconds=86400" alt="Ahmed-Ahmed-Mahfouz's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Ahmed-Ahmed-Mahfouz&theme=cobalt&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ahmed Mahfouz's GitHub Trophies" />
-</p>
-
-
 ## 🛠️ Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
